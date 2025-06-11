@@ -1,0 +1,1 @@
+In this current project I will be creating a simple website that will allow me to refresh myself on some basic html. The website will allow users to click on links that will send them to other relative pages which contain recipes.
